@@ -29,6 +29,7 @@ add_message_files(
   RobotState.msg
   RobotCommand.msg
   TransformStampedCertainty.msg
+  KfState.msg
 )
 
 ## Generate services in the 'srv' folder
