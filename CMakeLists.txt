@@ -31,6 +31,9 @@ add_message_files(
   TransformStampedCertainty.msg
   KfState.msg
   ArucoInfo.msg
+  VersionInfo.msg 
+  Sound.msg 
+  SensorState.msg 
 )
 
 ## Generate services in the 'srv' folder
